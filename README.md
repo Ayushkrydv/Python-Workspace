@@ -1,2 +1,2 @@
 # Python-Workspace
-Lesrning Python (IIT MADRAS)
+Learning Python (IIT MADRAS)
